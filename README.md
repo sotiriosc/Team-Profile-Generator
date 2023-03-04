@@ -5,7 +5,11 @@
 [Image-of-website](./output/Employee%20management%20site%20pic.png),
 
 
-[Link-to-Video](https://drive.google.com/file/d/1uLgejDgrRaiSbLF9ZC1mYIyGNQUW0WJ7/view)
+[Link-to-Video](https://drive.google.com/file/d/1uLgejDgrRaiSbLF9ZC1mYIyGNQUW0WJ7/view),
+
+
+[Link-to-Website](https://sotiriosc.github.io/Sample-Website/)
+
 
 
 ### Motivation
