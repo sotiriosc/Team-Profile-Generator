@@ -1,5 +1,22 @@
 // Test to see if Employee is created correctly
+
 const Employee = require("../lib/Employee");
+
+// Different syntax for writing test
+
+describe("Employee", () => {
+    describe("getName", () => {
+        it("Can create an new employee.", () => {
+            const employeeInstance = new Employee();
+    
+            expect(typeof(employeeInstance)).toBe("object");
+
+    })
+   
+    })
+})
+
+// Different syntax for writing test
 
 test("Can create an new employee.", () => {
     const employeeInstance = new Employee();

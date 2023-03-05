@@ -10,7 +10,7 @@ const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 const generateTeam = require("./src/template.js")
 
-// create empty array to store and create object with user inputs.
+// create empty array to store objects(employees) created with user inputs.
 teamArray = [];
 
 // Create app to write file 

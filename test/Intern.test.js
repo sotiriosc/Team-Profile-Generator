@@ -1,5 +1,18 @@
 // Test to see if Intern is created correctly
+const { default: expect } = require("expect");
+
 const Intern = require("../lib/Intern");
+
+// Different syntax for writing test
+
+describe("getSchool", () => {
+    it("Can create school.", () => {
+        const testSchool = "School Name"
+        const employee = new Intern("Sotirios", 2, "chortogiannoss@gmail.com", testSchool);
+
+        expect(testSchool).toBe(employee.school)
+    })
+})
 
 test("Can create school.", () => {
     const testSchool = "School Name";
