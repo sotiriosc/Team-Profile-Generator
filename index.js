@@ -1,3 +1,5 @@
+// Create variables to define requirements and set writte file destination
+
 const Manager = require("./lib/Manager.js");
 const Engineer = require("./lib/Engineer.js");
 const Intern = require("./lib/Intern.js");
@@ -8,9 +10,10 @@ const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 const generateTeam = require("./src/template.js")
 
+// create empty array to store and create object with user inputs.
 teamArray = [];
 
-
+// Create app to write file 
 
 function runApp () {
 
