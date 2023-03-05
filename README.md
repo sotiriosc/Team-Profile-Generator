@@ -44,7 +44,7 @@ I learned how to use jest to create tests to test the functionality of what I am
         
 ## Installation:
 
-It is installed by obtaining the code on my github repository. It will also require 2 npm's, the first one being inquirer. The second is jest. 
+It is installed by obtaining the code on my github repository. It will also require 3 additional npm's, the first one being inquirer. The second is jest and last is path to set the new file path. 
 
 ## Usage:
 
