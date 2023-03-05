@@ -26,7 +26,7 @@ Helps business organize their employees information
 
 ### Learn
 
-I learned how to use jest to create tests to test the functionality of what I am creating. I also increased my knowledge on es5 javascript syntax.  
+I learned how to use jest to create tests to test the functionality of what I am creating. I also increased my knowledge on ES6 javascript syntax.  
 
 ## Table of Contents:
 
