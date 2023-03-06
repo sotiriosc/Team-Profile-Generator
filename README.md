@@ -66,4 +66,4 @@ To run test, install jest and run "npm run test" on command line.
 ## Questions:
 
 The source code of this project can be found on my Github repository at www.github.com/sotiriosc. Feel free to contact 
-me any time regarding questions or recomendations. My email is chortogiannoss@gmail.com. Thank you for taking the time to review and use my app.
+me any time regarding questions or recomendations. My email is chortogiannoss@gmail.com. Thank you for taking the time to review and use my app, I really appreciate it.
